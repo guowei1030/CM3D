@@ -58,26 +58,6 @@ Example format (Chinese) in JSON:
   },
 }
 ```
-Example format (English) in JSON:
-
-```json
-{
-  "1": {
-    "Pic_id": "ifs_12.jpg",
-    "MetaphorOccurrence": 1,
-    "Target": "skincare product",
-    "Source": "water",
-    "Type": "commercial advertisement"
-  },
-  "2": {
-    "Pic_id": "pbs_1190.jpg",
-    "MetaphorOccurrence": 1,
-    "Target": "lung",
-    "Source": "cigarette",
-    "Type": "public service advertisement"
-  },
-}
-```
 
 ## Run the code
 
