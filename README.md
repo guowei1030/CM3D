@@ -38,7 +38,7 @@ Each instance in the JSON file is allotted one identifier (e.g. "1") which is a 
 | `Type`              |      Type of advertisement in the picture (Commercial/Public Service)       |
 
 
-Example format (Chinese) in JSON:
+Example format in JSON:
 
 ```json
 {
